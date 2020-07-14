@@ -26,7 +26,7 @@ WeeklyData get done => WeeklyData(
   );
 ```
 
-![sample1](./sample_images/sample1.PNG)
+![sample1](./sample_images/sample1.png)
 
 ### Insert Image
 
@@ -44,7 +44,7 @@ WeeklyData get done => WeeklyData(
   );
 ```
 
-![sample2](./sample_images/sample2.PNG)
+![sample2](./sample_images/sample2.png)
 
 ### Export PDF file
 
