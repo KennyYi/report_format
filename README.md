@@ -1,6 +1,8 @@
 # Weekly
 
-Weekly document for Flutter. Running on Android, iOS and Mac OS.
+Weekly document for Flutter.
+
+> To build for Chrome brower, please use `Beta` channel. Please check [Building a web application with Flutter](https://flutter.dev/docs/get-started/web) page.
 
 ## How to use
 
